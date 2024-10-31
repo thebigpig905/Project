@@ -98,3 +98,8 @@ body {
     display: inline-block;
     border-radius: 50%;
   }
+  .colordisp{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+  }
